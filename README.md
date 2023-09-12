@@ -1,6 +1,6 @@
 # TableauDashboard
 
-## Task on sales dataset:
+### Task on sales dataset:
 1. Revenue per State --> bar | map
 2. Revenue based on Month of the year --> Line chart
 3. Revenue absed on Age --> Histo | Bar
